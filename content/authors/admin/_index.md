@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент кафедры физико математических и естественных наук
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Архипов Фёдор - студент российского университета дружбы народов.
 {style="text-align: justify;"}
